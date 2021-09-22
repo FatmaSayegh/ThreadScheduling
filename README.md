@@ -1,2 +1,2 @@
 # ThreadScheduling
-Running different thread scheduling algorithms (Round Robin, First come first served, Shortest Job first, Shortest remaining time first)
+Running different multi-threading algorithms (Round Robin, First come First serve, Shortest Job First, Shortest Remaining Time First)
